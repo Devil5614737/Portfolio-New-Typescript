@@ -44,8 +44,6 @@ export const Card = ({ title, tag, desc, link, src }: Props) => {
        {desc}
         </p>
         <a
-        target={'_blank'}
-        rel="noreferrer" 
           href={link}
           className="text-xl tracking-[2px] font-semibold mt-6 flex items-center gap-3 group-hover:gap-5 transition-all border-b-2 w-fit py-2 border-b-black"
         >
