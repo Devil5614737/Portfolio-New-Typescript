@@ -5,7 +5,7 @@ export const data=[
         tag:"clone",
         desc:"This is the clone of popular movie website, built with Next.js, Typesrcipt , Firebase and Tailwind",
         link:"https://netflix-clone-next-js-2.vercel.app/login",
-        src:"/assets/netflix.pnfsdg"
+        src:"/assets/netflix.png"
     },
     {
         id:2,
